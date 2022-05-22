@@ -58,7 +58,8 @@ Por mi parte considero que un desarrollador de Software debe tener como cualquie
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fernandomoralesh.github.io/my_launchx_blog/posts/post_4/</guid>
-      <description>#Titulo 1
+      <description>title: &amp;ldquo;Aprendiendo Mark down&amp;rdquo; date: 2022-21-05 description: &amp;lsquo;Markdown&amp;rsquo;
+#Titulo 1
 ##Titulo 2
 ###Titulo 3
 ####Titulo 4
