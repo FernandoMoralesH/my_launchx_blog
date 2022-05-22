@@ -1,12 +1,8 @@
 ---
-title: "Mi experiencia en Launck X"
+title: "Aprendiendo a usar Markdown"
 date: 2022-04-25
-description: 'Mi experiencia:'
+description: 'Markdown:'
 ---
-
-title: "Aprendiendo Mark down"
-date: 2022-21-05
-description: 'Markdown'
 
 
 
