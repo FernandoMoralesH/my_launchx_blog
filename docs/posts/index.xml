@@ -20,6 +20,22 @@
     </item>
     
     <item>
+      <title>Mi experiencia en Launck X</title>
+      <link>https://fernandomoralesh.github.io/my_launchx_blog/posts/post_4/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandomoralesh.github.io/my_launchx_blog/posts/post_4/</guid>
+      <description>title: &amp;ldquo;Aprendiendo Mark down&amp;rdquo; date: 2022-21-05 description: &amp;lsquo;Markdown&amp;rsquo;
+#Titulo 1
+##Titulo 2
+###Titulo 3
+####Titulo 4
+#####Titulo 5
+######Titulo 6
+Hola</description>
+    </item>
+    
+    <item>
       <title>2do live Semana 1</title>
       <link>https://fernandomoralesh.github.io/my_launchx_blog/posts/post_2/</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
@@ -50,22 +66,6 @@ En momento de oseo viendo los videos de Tik Tok, me saliera uno del usuario @Bru
       <description>Buen día!
 Por mi parte considero que un desarrollador de Software debe tener como cualquier profesionista valores eticos que influyan en primera instancia sobre cualquier decision que se tome por pequeña que sea.
  Debe mantener siempre la comunicacíon tanto con el cliente como con el equipo de trabajo, con el fin de que el proyecto solicitado se cumpla al 100% o inclusive generando mas de lo que se estaba solicitando al comienzo.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fernandomoralesh.github.io/my_launchx_blog/posts/post_4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fernandomoralesh.github.io/my_launchx_blog/posts/post_4/</guid>
-      <description>title: &amp;ldquo;Aprendiendo Mark down&amp;rdquo; date: 2022-21-05 description: &amp;lsquo;Markdown&amp;rsquo;
-#Titulo 1
-##Titulo 2
-###Titulo 3
-####Titulo 4
-#####Titulo 5
-######Titulo 6
-Hola</description>
     </item>
     
   </channel>
