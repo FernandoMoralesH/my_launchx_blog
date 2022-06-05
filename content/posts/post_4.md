@@ -14,9 +14,9 @@ description: 'Markdown:'
 
 #### Titulo 4
 
-##### Titulo 5~~
+##### Titulo 5
 
-#####~~# Titulo 6
+###### Titulo 6
 
 Hola
 
@@ -24,4 +24,4 @@ Este es un textomen *Italica*
 
 Este es un texto en **negrita**
 
-Este es un texto en ~~t~~~
+Este es un texto en ~~tachado~~
