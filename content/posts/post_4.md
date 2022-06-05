@@ -36,3 +36,12 @@ Este es un texto en ~~tachado~~
 - Azul 
 - Rojo
 
+1. Apple
+2. Orange
+3. Banana
+
+
+1-Hola
+
+
+
