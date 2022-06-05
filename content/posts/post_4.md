@@ -18,6 +18,8 @@ description: 'Markdown:'
 
 ###### Titulo 6
 
+<!--Esto es un comentario -->
+
 Hola
 
 Este es un textomen *Italica*
@@ -25,3 +27,12 @@ Este es un textomen *Italica*
 Este es un texto en **negrita**
 
 Este es un texto en ~~tachado~~
+
+<!-- Listas-->
+
+* Apple
+* Banana
+
+- Azul 
+- Rojo
+
