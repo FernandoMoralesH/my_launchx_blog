@@ -105,5 +105,8 @@ const users = [
 print("Hello world")
 ```
 
+|Tables|Are|cool|
+|------|---|----|
+|col 3 is |rigth-aliged|$1600|
 
 
