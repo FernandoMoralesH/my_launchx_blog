@@ -30,19 +30,22 @@ Este es un texto en ~~tachado~~
 
 <!-- Listas-->
 
-### Lista Desordenada:
-
 * Apple
 * Banana
+* Orange
 
 - Azul 
 - Rojo
 
-### Lista ordenada:
 1. Apple
 2. Orange
 3. Banana
 
+1. Apple
+  2. Apple 2  
+
+
+1-Hola
 
 
 
