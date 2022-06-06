@@ -120,4 +120,6 @@ print("Hello world")
 |col 2 is       |centered    |  $12|
 |zebfra stripes |are neat    |   $1|
 
-![Visual studio Code](https://boluda.com/files/curso-visual-studio-code.gif)
+![Visual studio Code](https://boluda.com/files/curso-visual-studio-code.gif "vs-code")
+
+
