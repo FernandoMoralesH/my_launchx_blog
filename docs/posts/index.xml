@@ -17,7 +17,12 @@
 Este es un textomen Italica
 Este es un texto en negrita
 Este es un texto en tachado
-Lista Desordenada:  Apple Banana   Azul Rojo  Lista ordenada:  Apple Orange Banana  </description>
+ Apple Banana Orange   Azul Rojo    Apple
+  Orange
+  Banana
+  Apple
+  Apple 2
+  1-Hola</description>
     </item>
     
     <item>
