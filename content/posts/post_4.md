@@ -41,11 +41,9 @@ Este es un texto en ~~tachado~~
 2. Orange
 3. Banana
 
-1. Apple
-  2. Apple 2  
+Lista anidada:
 
-
-1-Hola
-
+- Apple
+  - Apple 2
 
 
