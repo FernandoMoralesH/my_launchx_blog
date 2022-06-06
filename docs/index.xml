@@ -17,12 +17,8 @@
 Este es un textomen Italica
 Este es un texto en negrita
 Este es un texto en tachado
- Apple Banana Orange   Azul Rojo    Apple
-  Orange
-  Banana
-  Apple
-  Apple 2
-  1-Hola</description>
+ Apple Banana Orange   Azul Rojo   Apple Orange Banana  Lista anidada:
+ Apple  Apple 2    </description>
     </item>
     
     <item>
