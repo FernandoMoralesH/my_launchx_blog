@@ -124,7 +124,6 @@ print("Hello world")
 
 ---
 
-
-![Visual studio Code](vscode.png "vscodelogo")
+![Visual studio Code](vscode.png width"50%" vscodelogo")
 
 
