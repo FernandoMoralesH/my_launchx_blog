@@ -83,20 +83,22 @@ ___
 ___
 
 ```javascript
-[
-  {
-    "id": "6264d5d89f1df827eb84bb23",
-    "name": "Warren",
-    "email": "Todd@visualpartnership.xyz",
-    "credits": 508,
-    "enrollments": [
-      "Visual Thinking Intermedio",
-      "Visual Thinking Avanzado"
-    ],
-    "previousCourses": 1,
-    "haveCertification": true
-  }
+// Ejemplo 16: Ordenando una lista de objetos
+const users = [
+    { name: 'A', age: 150 },
+    { name: 'B', age: 50 },
+    { name: 'C', age: 100 },
+    { name: 'D', age: 22 },
   ]
+  
+  users.sort((a, b) => { // podemos invocar una función
+    if (a.age < b.age) return -1
+    if (a.age > b.age) return 1
+    return 0
+  })
+  
+  console.log("Ejemplo 16: Ordenando una lista de objetos por la edad")
+  console.log(users) // sorted ascending
 ```
 
 ```python
