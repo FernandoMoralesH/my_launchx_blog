@@ -122,4 +122,9 @@ print("Hello world")
 
 ![Visual studio Code](https://boluda.com/files/curso-visual-studio-code.gif "vs-code")
 
+---
+
+
+![Visual studio Code](vscode.png "vscodelogo"
+
 
