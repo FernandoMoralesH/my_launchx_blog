@@ -111,3 +111,9 @@ print("Hello world")
 |col 2 is       |centered    |  $12|
 |zebfra stripes |are neat    |   $1|
 
+|Tables         |Are         |cool |
+|---------------|:----------:|----:|
+|col 3 is       |rigth-aliged|$1600|
+|col 2 is       |centered    |  $12|
+|zebfra stripes |are neat    |   $1|
+
