@@ -147,7 +147,7 @@ print("Hello world")
 |Versión Extendida |  <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/tree/main/version_extendida" target="_blank"><img src="https://img.shields.io/badge/🔗link-VERSIONEXTENDIDA-red?style=for-the-badge"></a> |
 |Recapitulaciones| <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/recapitulaciones.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-RECAPITULACIONES-green?style=for-the-badge"></a> |
 
-# Aprender mas sobre Mark Down
+### Aprender mas sobre Mark Down:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
