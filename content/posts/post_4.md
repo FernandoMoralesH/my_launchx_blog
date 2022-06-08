@@ -140,6 +140,12 @@ print("Hello world")
 :earth_americas:
 
  <a href="https://user-images.githubusercontent.com/17634377/161416220-9c68ef3c-8e40-41f9-8963-556d73cb06f4.png" target="_blank"><img src="https://img.shields.io/badge/🔗link-PASEDEABORDAR-green?style=for-the-badge"></a>
+ 
+ | Contenido | Link |
+|:---:|:---:|
+|Contenido Semanal | <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/tree/main/semanas" target="_blank"><img src="https://img.shields.io/badge/🔗link-CONTENIDOSEMANAL-blue?style=for-the-badge"></a> |
+|Versión Extendida |  <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/tree/main/version_extendida" target="_blank"><img src="https://img.shields.io/badge/🔗link-VERSIONEXTENDIDA-red?style=for-the-badge"></a> |
+|Recapitulaciones| <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/recapitulaciones.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-RECAPITULACIONES-green?style=for-the-badge"></a> |
 
 
 
