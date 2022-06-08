@@ -1,3 +1,9 @@
+---
+title: "Emojis"
+date: 2022-08-06
+description: 'Emojis para Git Hub:'
+---
+
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
