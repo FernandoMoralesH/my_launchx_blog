@@ -1,4 +1,4 @@
-baseURL = "https://fernandomoralesh.github.io/my_launchx_blog/"
+baseURL = "https://fernandomoralesh.github.io/my_blog/"
 languageCode = "en-us"
 title = "Bitácora de Viaje de Fernando Morales "
 theme = "hugo-winston-theme"
